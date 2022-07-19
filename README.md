@@ -1,4 +1,4 @@
-# Thorium H264ify
+# Thorium H264ify &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/Thorium-H264ify/main/src/icons/icon256.png" width="48">
 __Fork of enhanced-h264ify for Thorium.__
 
 ## About
