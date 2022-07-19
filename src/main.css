@@ -1,0 +1,42 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+body {
+  min-width: 218px;
+  max-width: 218px;
+  min-height: 148px;
+  max-height: 148px;
+  white-space: nowrap;
+  margin: 8px;
+  background-color: #fff;
+  color: #000;
+}
+
+img.icon {
+  margin-top: -32px;
+  margin-bottom: -8px;
+  margin-right: 4px;
+  float: right;
+}
+
+.title {
+  color: #8000AA;
+}
+
+@media all and (prefers-color-scheme: dark) {
+  body {
+    background-color: #24292f;
+    color: #ffffff;
+  }
+  a {
+    color: #ae5ee0;
+  }
+  a:active {
+    color: #5bf5bf;
+  }
+  .title {
+  color: #ae5ee0;
+  }
+}

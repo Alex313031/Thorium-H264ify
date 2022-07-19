@@ -1,0 +1,36 @@
+{
+  "extensionDescription": {
+    "message": "Choose video codec options for YouTube.",
+    "description": "Extension description"
+  },
+
+  "optionsTitle": {
+    "message": "Thorium H264ify",
+    "description": "Main Title"
+  },
+
+  "optionsBlock60fps": {
+    "message": "Block 60 fps Video"
+  },
+
+  "optionsBlockH264": {
+    "message": "Block H.264"
+  },
+
+  "optionsBlockVP8": {
+    "message": "Block VP8"
+  },
+
+  "optionsBlockVP9": {
+    "message": "Block VP9"
+  },
+
+  "optionsBlockAV1": {
+    "message": "Block AV1"
+  },
+
+  "optionsDisableLN": {
+    "message": "Disable Loudness Normalization"
+  }
+
+}
